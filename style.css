@@ -367,7 +367,7 @@ span {
     color: black;
     font-weight: 400;
 }
- 
+
 .form-control {
     border-color: black rgba(0, 0, 0, .1);
     box-shadow: none;
@@ -380,6 +380,7 @@ span {
 
 .ltc-atomic-tangerine {
     color: #0f1161 !important;
+    font-size: 15px;
 }
 
 
@@ -711,7 +712,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
