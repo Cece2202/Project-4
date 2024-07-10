@@ -367,6 +367,22 @@ span {
     color: black;
     font-weight: 400;
 }
+ 
+.form-control {
+    border-color: black rgba(0, 0, 0, .1);
+    box-shadow: none;
+}
+
+.btn-atomic-tangerine {
+    background: #F3976C;
+    color: #0f1161 !important;
+}
+
+.ltc-atomic-tangerine {
+    color: #0f1161 !important;
+}
+
+
 
 @media (min-width: 768px) {
     .site-navigation {
