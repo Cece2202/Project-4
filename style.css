@@ -859,11 +859,11 @@ h4 {
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta\ made\ sign\ orange.webp");
+    background-image: url("img/atlanta\ made\ sign.jpg");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta\ made\ sign\ orange.webp");
+    background-image: url("img/atlanta\ made\ sign.jpg");
 }
 
 @media (max-width: 1024px) {
@@ -919,8 +919,8 @@ h4 {
     }
 
     .bloc {
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
+        padding-left: auto;
+        padding-right: auto;
     }
 
     .bloc-group,
